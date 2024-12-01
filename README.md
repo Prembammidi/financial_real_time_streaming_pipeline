@@ -1,5 +1,5 @@
 
-# Financial Real-Time Streaming Pipeline
+# Financial_Data Real-Time Streaming Pipeline
 
 ## Overview
 This project implements a real-time financial data streaming pipeline. It is designed to consume live financial data, transform it, and store the processed data for further analysis. The pipeline is built using Python and is integrated with a Producer-Consumer architecture for efficient data streaming.
